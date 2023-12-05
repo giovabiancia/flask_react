@@ -1,8 +1,6 @@
 import React from "react";
-
 import { useState } from "react";
 import axios from "axios";
-import { Col, Container, Row } from "react-bootstrap";
 
 function HomePage() {
   // new line start
