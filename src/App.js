@@ -3,6 +3,7 @@ import ContactPage from "./pages/ContactPage";
 import HomePage from "./pages/HomePage";
 import Layout from "./components/Layout";
 import NoPage from "./pages/NoPage";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function App() {
   return (
